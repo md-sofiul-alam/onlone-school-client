@@ -28,11 +28,11 @@ const PopularClass = () => {
       </Helmet>
       <SectionTitle title="Popular Classes"></SectionTitle>
       <div className="grid md:grid-cols-3 gap-7">
-        <JackInTheBox>
+        <div>
           {classes?.map((item) => (
             <ClassCard key={item._id} item={item}></ClassCard>
           ))}
-        </JackInTheBox>
+        </div>
       </div>
       <div className="flex justify-center mt-12">
         <Link

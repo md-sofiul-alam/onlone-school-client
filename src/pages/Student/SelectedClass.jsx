@@ -17,7 +17,6 @@ const SelectedClass = () => {
         const { data } = await axiosSecure.get('/enrolled');
         const myAllClass = data.filter(myClass => myClass?.email === user?.email);
         setClasses(myAllClass)
-        console.log(myAllClass);
     }
 
     useEffect(() => {
