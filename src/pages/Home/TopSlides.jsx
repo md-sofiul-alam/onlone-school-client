@@ -3,7 +3,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 const TopSlides = () => {
   return (
     <div className="h-[650px] mx-auto container mt-6">
-      <div className="carousel h-[600px] bg-orange-50">
+      <div className="carousel h-[600px] w-full bg-orange-50">
         <div
           id="slide1"
           className="carousel-item relative w-full flex gap-6 px-10"

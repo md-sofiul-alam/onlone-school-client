@@ -4,7 +4,7 @@ import SectionTitle from "../../components/Shared/SectionTitle";
 import ClassCard from "../../components/ClassCard";
 import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import { JackInTheBox} from "react-awesome-reveal";
+import { Roll} from "react-awesome-reveal";
 
 const PopularClass = () => {
   const [classes, setClasses] = useState([]);
@@ -28,11 +28,11 @@ const PopularClass = () => {
       </Helmet>
       <SectionTitle title="Popular Classes"></SectionTitle>
       <div className="grid md:grid-cols-3 gap-7">
-        <div>
+        <Roll>
           {classes?.map((item) => (
             <ClassCard key={item._id} item={item}></ClassCard>
           ))}
-        </div>
+        </Roll>
       </div>
       <div className="flex justify-center mt-12">
         <Link

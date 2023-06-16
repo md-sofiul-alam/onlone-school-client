@@ -40,7 +40,7 @@ const ClassCard = ({ item }) => {
     return (
         <div className='shadow shadow-yellow-200 rounded-md p-5 hover:shadow-yellow-500'>
             <img className='rounded-md w-[150px] h-[120px]' src={classImage} alt="" />
-            <h3 className='text-2xl my-3'>Item: <span className='text-pink-600 font-semibold'>{className}</span></h3>
+            <h3 className='text-xl my-3'>Item: <span className='text-green-600 font-semibold'>{className}</span></h3>
             <h3 className='text-xl'>Instructor: <span className='text-purple-300'>{instructorName}</span></h3>
             <div className='flex my-3 justify-between font-semibold'>
                 <span>Seats: <span className='text-pink-500'>{availableSeats}</span></span>
