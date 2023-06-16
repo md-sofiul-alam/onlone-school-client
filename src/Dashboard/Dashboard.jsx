@@ -11,7 +11,6 @@ const Dashboard = () => {
     const { user } = useAuth();
 
     const dashboard = ((window.location === 'http://127.0.0.1:5173/') || (window.location === 'https://arts-crafts-b7e57.web.app/'))
-    console.log(dashboard)
 
     useEffect(() => {
         fetch('https://eee-school.vercel.app/users')

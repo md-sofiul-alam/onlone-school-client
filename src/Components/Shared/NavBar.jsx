@@ -20,8 +20,8 @@ const NavBar = () => {
 
   const navItems = <>
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/instructors">Instructors</Link></li>
-        <li><Link to="/classes">Classes</Link></li>
+        <li><Link to="./instructors">Instructors</Link></li>
+        <li><Link to="./classes">Classes</Link></li>
         {user && <li className='uppercase text-yellow-600 bg-yellow-50 rounded-full'><Link to="/dashboard">Dashboard</Link></li>}
     </>
 
@@ -78,7 +78,7 @@ const NavBar = () => {
               </>
             ) : (
               <Link
-                to="/login"
+                to="./login"
                 className="font-bold btn btn-circle btn-info text-[12px]"
               >
                 Login

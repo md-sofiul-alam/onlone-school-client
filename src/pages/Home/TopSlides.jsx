@@ -50,7 +50,7 @@ const TopSlides = () => {
           className="carousel-item relative w-full flex gap-6 px-10"
         >
           <img
-            src="https://www.shutterstock.com/image-vector/vector-illustration-abstract-electric-lightning-260nw-1706216764.jpg"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiQL39aFxPk06obNVdLBIKnkL16ITHBHovzQd8ibvLNIEFWtBoE6FQBFpQAUQJrhHyo0&usqp=CAU"
             className="w-1/2 m-5 rounded-xl"
           />
           <div className="my-auto w-2/5">
@@ -91,7 +91,7 @@ const TopSlides = () => {
           className="carousel-item relative w-full flex gap-6 px-10"
         >
           <img
-            src="https://www.shutterstock.com/image-vector/vector-illustration-abstract-electric-lightning-260nw-1706216764.jpg"
+            src="https://fixittechsuite.com/wp-content/uploads/2012/11/image-laptop-notebook-repair.jpg"
             className="w-1/2 m-5 rounded-xl"
           />
           <div className="my-auto w-2/5">
@@ -132,7 +132,7 @@ const TopSlides = () => {
           className="carousel-item relative w-full flex gap-6 px-10"
         >
           <img
-            src="https://www.shutterstock.com/image-vector/vector-illustration-abstract-electric-lightning-260nw-1706216764.jpg"
+            src="https://i0.wp.com/www.electronicsandyou.com/wp-content/uploads/2019/08/electronic-components.jpg?resize=720%2C405"
             className="w-1/2 m-5 rounded-xl"
           />
           <div className="my-auto w-2/5">

@@ -44,7 +44,7 @@ const AddClass = () => {
                 title="Add A Class"
             >
             </SectionTitle>
-            <form onSubmit={handleSubmit(onSubmit)} className="mx-5 mx-auto p-8 mb-8 bg-white rounded-lg shadow-lg">
+            <form onSubmit={handleSubmit(onSubmit)} className=" mx-auto p-8 mb-8 bg-white rounded-lg shadow-lg">
                 <div className="mb-6">
                     <label htmlFor="className" className="block text-sm font-bold mb-2">
                         Class Name
