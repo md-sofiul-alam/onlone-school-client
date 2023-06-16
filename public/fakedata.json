@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "imageUrl": "https://example.com/johndoe.jpg",
+      "subject": "Mathematics",
+      "qtyOfClassTaken": 10,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "imageUrl": "https://example.com/janesmith.jpg",
+      "subject": "Science",
+      "qtyOfClassTaken": 8,
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bobjohnson@example.com",
+      "imageUrl": "https://example.com/bobjohnson.jpg",
+      "subject": "History",
+      "qtyOfClassTaken": 5,
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emilybrown@example.com",
+      "imageUrl": "https://example.com/emilybrown.jpg",
+      "subject": "English",
+      "qtyOfClassTaken": 7,
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "name": "Michael Davis",
+      "email": "michaeldavis@example.com",
+      "imageUrl": "https://example.com/michaeldavis.jpg",
+      "subject": "Computer Science",
+      "qtyOfClassTaken": 12,
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "email": "sarahwilson@example.com",
+      "imageUrl": "https://example.com/sarahwilson.jpg",
+      "subject": "Art",
+      "qtyOfClassTaken": 3,
+      "rating": 3.5
+    }
+  ]
+  

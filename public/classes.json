@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Decorative Art",
+    "instructorName": "Sara Binte Mozammal",
+    "seats": 18,
+    "image": "https://cdn.incollect.com/sites/default/files/medium/Pair-Chinese-Blue-White-Open-Vases-139451-107334.jpg",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Decorative Art",
+    "instructorName": "Jihad",
+    "seats": 40,
+    "image": "https://cdn.incollect.com/sites/default/files/medium/Pair-Chinese-Blue-White-Open-Vases-139451-107334.jpg",
+    "price": 3200
+  },
+  {
+    "id": 3,
+    "name": "Decorative Art",
+    "instructorName": "Amir Hamza Zidan",
+    "seats": 16,
+    "image": "https://cdn.incollect.com/sites/default/files/medium/Pair-Chinese-Blue-White-Open-Vases-139451-107334.jpg",
+    "price": 210
+  },
+  {
+    "id": 4,
+    "name": "Decorative Art",
+    "instructorName": "Aklima Akter",
+    "seats": 14,
+    "image": "https://cdn.incollect.com/sites/default/files/medium/Pair-Chinese-Blue-White-Open-Vases-139451-107334.jpg",
+    "price": 230
+  },
+  {
+    "id": 5,
+    "name": "Decorative Art",
+    "instructorName": "Fara Binte Mozammal",
+    "seats": 32,
+    "image": "https://cdn.incollect.com/sites/default/files/medium/Pair-Chinese-Blue-White-Open-Vases-139451-107334.jpg",
+    "price": 500
+  },
+  {
+    "id": 6,
+    "name": "Decorative Art",
+    "instructorName": "Md. Mozammal Haq",
+    "seats": 0,
+    "image": "https://p.bigstockphoto.com/eIdTXLbqQilMs9xbjvcs_bigstock-Aerial-View-Of-Sandy-Beach-Wit-256330393.jpg",
+    "price": 200
+  }
+]
